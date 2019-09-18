@@ -3,13 +3,16 @@
  *   - getElementByIdを使う
  *   - console.logで取得したDOMの中身を確認する
  */
-
+const titleElement = document.getElementById('title');
+console.log(titleElement);
 
 /**
  * 課題2: id値が 'item-container' の要素を取得する
  *   - querySelectorを使う
  *   - console.logで取得したDOMの中身を確認する
  */
+const itemContainer = document.querySelector('#item-container');
+console.log(itemContainer);
 
 
 /**
