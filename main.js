@@ -11,6 +11,8 @@ console.log(titleElement);
  *   - querySelectorを使う
  *   - console.logで取得したDOMの中身を確認する
  */
+const itemContainer = document.querySelector('#item-container');
+console.log(itemContainer);
 
 
 /**
