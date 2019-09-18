@@ -3,7 +3,6 @@
  *   - getElementByIdを使う
  *   - console.logで取得したDOMの中身を確認する
  */
-const titleElement = document.getElementById('title');
 
 
 /**
